@@ -1,0 +1,668 @@
+[
+    {
+        "number": 1,
+        "book": "John 3:16",
+        "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+        "lesson": "God's love and the gift of Jesus for salvation."
+    },
+    {
+        "number": 2,
+        "book": "Philippians 4:13",
+        "text": "I can do all things through Christ which strengtheneth me.",
+        "lesson": "Rely on Christ’s strength in all circumstances."
+    },
+    {
+        "number": 3,
+        "book": "Matthew 5:16",
+        "text": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+        "lesson": "Live a life that reflects God’s glory."
+    },
+    {
+        "number": 4,
+        "book": "Romans 8:28",
+        "text": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose.",
+        "lesson": "Trust in God’s plan, even in hardships."
+    },
+    {
+        "number": 5,
+        "book": "Proverbs 3:5-6",
+        "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.",
+        "lesson": "Surrender to God’s wisdom over our own."
+    },
+    {
+        "number": 6,
+        "book": "Psalm 23:1",
+        "text": "The Lord is my shepherd; I shall not want.",
+        "lesson": "Trust God’s provision and guidance."
+    },
+    {
+        "number": 7,
+        "book": "Isaiah 40:31",
+        "text": "But they that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.",
+        "lesson": "Patience in the Lord brings strength."
+    },
+    {
+        "number": 8,
+        "book": "Matthew 6:33",
+        "text": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+        "lesson": "Prioritize God above all else."
+    },
+    {
+        "number": 9,
+        "book": "Matthew 11:28",
+        "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+        "lesson": "Jesus offers rest to those who are weary."
+    },
+    {
+        "number": 10,
+        "book": "1 Corinthians 13:4-7",
+        "text": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; rejoiceth not in iniquity, but rejoiceth in the truth; beareth all things, believeth all things, hopeth all things, endureth all things.",
+        "lesson": "The characteristics of true, Christ-like love."
+    },
+    {
+        "number": 11,
+        "book": "Matthew 4:4",
+        "text": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+        "lesson": "Dependence on God’s word over physical needs."
+    },
+    {
+        "number": 12,
+        "book": "Matthew 17:20-21",
+        "text": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you. Howbeit this kind goeth not out but by prayer and fasting.",
+        "lesson": "The power of faith, prayer, and fasting."
+    },
+    {
+        "number": 13,
+        "book": "Luke 6:27-28",
+        "text": "But I say unto you which hear, Love your enemies, do good to them which hate you, bless them that curse you, and pray for them which despitefully use you.",
+        "lesson": "The call to love and bless our enemies, like Jesus."
+    },
+    {
+        "number": 14,
+        "book": "John 14:6",
+        "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+        "lesson": "Jesus is the exclusive path to salvation."
+    },
+    {
+        "number": 15,
+        "book": "Romans 12:2",
+        "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+        "lesson": "Transformation through renewing the mind in Christ."
+    },
+    {
+        "number": 16,
+        "book": "Psalm 51:10",
+        "text": "Create in me a clean heart, O God; and renew a right spirit within me.",
+        "lesson": "The desire for inner purity and renewal."
+    },
+    {
+        "number": 17,
+        "book": "1 John 4:19",
+        "text": "We love him, because he first loved us.",
+        "lesson": "Our love for God is a response to His love."
+    },
+    {
+        "number": 18,
+        "book": "Matthew 7:7",
+        "text": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+        "lesson": "Encouragement to seek God persistently."
+    },
+    {
+        "number": 19,
+        "book": "Galatians 5:22-23",
+        "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance: against such there is no law.",
+        "lesson": "The character traits produced by the Holy Spirit."
+    },
+    {
+        "number": 20,
+        "book": "James 1:3",
+        "text": "Knowing this, that the trying of your faith worketh patience.",
+        "lesson": "Trials produce spiritual endurance."
+    },
+    {
+        "number": 21,
+        "book": "Matthew 6:16-18",
+        "text": "Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward. But thou, when thou fastest, anoint thine head, and wash thy face; that thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.",
+        "lesson": "Fasting with sincerity and humility."
+    },
+    {
+        "number": 22,
+        "book": "Ephesians 4:32",
+        "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.",
+        "lesson": "Forgive others as Christ forgave us."
+    },
+    {
+        "number": 23,
+        "book": "2 Corinthians 5:17",
+        "text": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.",
+        "lesson": "In Christ, we are transformed and renewed."
+    },
+    {
+        "number": 24,
+        "book": "Hebrews 11:1",
+        "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+        "lesson": "Faith is confidence in what we hope for and cannot see."
+    },
+    {
+        "number": 25,
+        "book": "Jeremiah 29:11",
+        "text": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end.",
+        "lesson": "God has plans for our well-being and hope."
+    },
+    {
+        "number": 26,
+        "book": "Psalm 46:1",
+        "text": "God is our refuge and strength, a very present help in trouble.",
+        "lesson": "God is our reliable source of help in times of trouble."
+    },
+    {
+        "number": 27,
+        "book": "John 14:27",
+        "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.",
+        "lesson": "Jesus gives us true peace that calms fears."
+    },
+    {
+        "number": 28,
+        "book": "1 Peter 5:7",
+        "text": "Casting all your care upon him; for he careth for you.",
+        "lesson": "God cares for us, so we should bring our concerns to Him."
+    },
+    {
+        "number": 29,
+        "book": "Romans 10:9",
+        "text": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.",
+        "lesson": "Salvation comes through confessing and believing in Jesus."
+    },
+    {
+        "number": 30,
+        "book": "James 1:5",
+        "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+        "lesson": "God generously provides wisdom to those who ask."
+    },
+    {
+        "number": 31,
+        "book": "1 John 1:9",
+        "text": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.",
+        "lesson": "Confession brings God’s forgiveness and cleansing."
+    },
+    {
+        "number": 32,
+        "book": "Joshua 1:9",
+        "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.",
+        "lesson": "God’s presence gives us courage and strength."
+    },
+    {
+        "number": 33,
+        "book": "Proverbs 18:10",
+        "text": "The name of the Lord is a strong tower: the righteous runneth into it, and is safe.",
+        "lesson": "God provides safety and refuge for the righteous."
+    },
+    {
+        "number": 34,
+        "book": "Matthew 7:12",
+        "text": "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.",
+        "lesson": "Treat others as you wish to be treated."
+    },
+    {
+        "number": 35,
+        "book": "Psalm 119:105",
+        "text": "Thy word is a lamp unto my feet, and a light unto my path.",
+        "lesson": "God’s word guides and illuminates our path."
+    },
+    {
+        "number": 36,
+        "book": "Romans 3:23",
+        "text": "For all have sinned, and come short of the glory of God.",
+        "lesson": "Everyone has sinned and needs God’s grace."
+    },
+    {
+        "number": 37,
+        "book": "Ephesians 2:8-9",
+        "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.",
+        "lesson": "Salvation is a gift of grace, not earned by works."
+    },
+    {
+        "number": 38,
+        "book": "Isaiah 41:10",
+        "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+        "lesson": "God’s presence dispels fear and provides strength."
+    },
+    {
+        "number": 39,
+        "book": "Philippians 4:6",
+        "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+        "lesson": "Bring all concerns to God in prayer with gratitude."
+    },
+    {
+        "number": 40,
+        "book": "John 8:12",
+        "text": "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.",
+        "lesson": "Following Jesus brings light and life."
+    },
+    {
+        "number": 41,
+        "book": "Colossians 3:23",
+        "text": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men.",
+        "lesson": "Serve wholeheartedly as if working for the Lord."
+    },
+    {
+        "number": 42,
+        "book": "Psalm 37:4",
+        "text": "Delight thyself also in the Lord; and he shall give thee the desires of thine heart.",
+        "lesson": "Finding joy in God brings fulfillment."
+    },
+    {
+        "number": 43,
+        "book": "John 15:12",
+        "text": "This is my commandment, That ye love one another, as I have loved you.",
+        "lesson": "Jesus calls us to love others as He loves us."
+    },
+    {
+        "number": 44,
+        "book": "Matthew 5:44",
+        "text": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;",
+        "lesson": "Love and pray for those who oppose you."
+    },
+    {
+        "number": 45,
+        "book": "2 Timothy 1:7",
+        "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+        "lesson": "God gives us a spirit of courage, love, and wisdom."
+    },
+    {
+        "number": 46,
+        "book": "Luke 11:9",
+        "text": "And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+        "lesson": "Persist in asking, seeking, and knocking."
+    },
+    {
+        "number": 47,
+        "book": "Hebrews 13:5",
+        "text": "Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.",
+        "lesson": "God’s presence is a source of contentment."
+    },
+    {
+        "number": 48,
+        "book": "Psalm 55:22",
+        "text": "Cast thy burden upon the Lord, and he shall sustain thee: he shall never suffer the righteous to be moved.",
+        "lesson": "God supports and sustains those who trust in Him."
+    },
+    {
+        "number": 49,
+        "book": "Isaiah 53:5",
+        "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
+        "lesson": "Jesus’ sacrifice brings us healing and peace."
+    },
+    {
+        "number": 50,
+        "book": "1 Thessalonians 5:16-18",
+        "text": "Rejoice evermore. Pray without ceasing. In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+        "lesson": "Maintain joy, prayer, and gratitude in all circumstances."
+    },
+    {
+        "number": 51,
+        "book": "Ephesians 2:10",
+        "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.",
+        "lesson": "We are created by God to do good works."
+    },
+    {
+        "number": 52,
+        "book": "Matthew 22:37-39",
+        "text": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself.",
+        "lesson": "Love God fully and love others as ourselves."
+    },
+    {
+        "number": 53,
+        "book": "Galatians 6:9",
+        "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+        "lesson": "Persevere in doing good, knowing that blessings will come."
+    },
+    {
+        "number": 54,
+        "book": "1 Corinthians 10:31",
+        "text": "Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.",
+        "lesson": "Everything we do should bring glory to God."
+    },
+    {
+        "number": 55,
+        "book": "Luke 9:23",
+        "text": "And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.",
+        "lesson": "Follow Jesus by embracing self-denial and daily commitment."
+    },
+    {
+        "number": 56,
+        "book": "Romans 6:23",
+        "text": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.",
+        "lesson": "Sin leads to death, but God offers eternal life through Jesus."
+    },
+    {
+        "number": 57,
+        "book": "James 4:7",
+        "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you.",
+        "lesson": "Submission to God gives us power over evil."
+    },
+    {
+        "number": 58,
+        "book": "1 Corinthians 13:13",
+        "text": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+        "lesson": "Love is the greatest virtue."
+    },
+    {
+        "number": 59,
+        "book": "2 Corinthians 12:9",
+        "text": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
+        "lesson": "God’s grace is enough, especially in our weaknesses."
+    },
+    {
+        "number": 60,
+        "book": "Psalm 27:1",
+        "text": "The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?",
+        "lesson": "God's presence dispels fear and brings strength."
+    },
+    {
+        "number": 61,
+        "book": "Colossians 3:12",
+        "text": "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;",
+        "lesson": "Live with compassion, kindness, humility, and patience."
+    },
+    {
+        "number": 62,
+        "book": "Matthew 5:9",
+        "text": "Blessed are the peacemakers: for they shall be called the children of God.",
+        "lesson": "Those who work for peace reflect God’s character."
+    },
+    {
+        "number": 63,
+        "book": "1 Peter 2:9",
+        "text": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light.",
+        "lesson": "We are called to proclaim God’s goodness and light."
+    },
+    {
+        "number": 64,
+        "book": "James 1:22",
+        "text": "But be ye doers of the word, and not hearers only, deceiving your own selves.",
+        "lesson": "Faith should be active and applied in our actions."
+    },
+    {
+        "number": 65,
+        "book": "2 Timothy 3:16",
+        "text": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness.",
+        "lesson": "Scripture guides, teaches, and corrects us in godliness."
+    },
+    {
+        "number": 66,
+        "book": "Psalm 34:8",
+        "text": "O taste and see that the Lord is good: blessed is the man that trusteth in him.",
+        "lesson": "Experiencing God’s goodness brings blessings."
+    },
+    {
+        "number": 67,
+        "book": "Hebrews 4:12",
+        "text": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.",
+        "lesson": "God’s word is alive and deeply transformative."
+    },
+    {
+        "number": 68,
+        "book": "Romans 8:1",
+        "text": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+        "lesson": "In Christ, we are free from condemnation."
+    },
+    {
+        "number": 69,
+        "book": "Proverbs 4:23",
+        "text": "Keep thy heart with all diligence; for out of it are the issues of life.",
+        "lesson": "Guard your heart, as it influences your entire life."
+    },
+    {
+        "number": 70,
+        "book": "John 10:10",
+        "text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.",
+        "lesson": "Jesus came to give us abundant, fulfilling life."
+    },
+    {
+        "number": 70,
+        "book": "James 4:7",
+        "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you.",
+        "lesson": "Submit to God and resist temptation."
+    },
+    {
+        "number": 71,
+        "book": "Galatians 6:9",
+        "text": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+        "lesson": "Persevere in doing good, trusting God’s timing."
+    },
+    {
+        "number": 72,
+        "book": "Romans 1:16",
+        "text": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth.",
+        "lesson": "Be unashamed of the gospel, which brings salvation."
+    },
+    {
+        "number": 73,
+        "book": "Matthew 18:20",
+        "text": "For where two or three are gathered together in my name, there am I in the midst of them.",
+        "lesson": "Jesus’ presence is with believers who gather in His name."
+    },
+    {
+        "number": 74,
+        "book": "1 Peter 1:16",
+        "text": "Because it is written, Be ye holy; for I am holy.",
+        "lesson": "God calls us to live holy lives."
+    },
+    {
+        "number": 75,
+        "book": "1 John 2:15",
+        "text": "Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.",
+        "lesson": "Prioritize God over worldly desires."
+    },
+    {
+        "number": 76,
+        "book": "2 Timothy 3:16-17",
+        "text": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness.",
+        "lesson": "The Bible is God’s inspired guide for life."
+    },
+    {
+        "number": 77,
+        "book": "1 Thessalonians 4:16-17",
+        "text": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first.",
+        "lesson": "Hope in the promised return of Christ."
+    },
+    {
+        "number": 78,
+        "book": "Hebrews 10:24-25",
+        "text": "And let us consider one another to provoke unto love and to good works: Not forsaking the assembling of ourselves together, as the manner of some is.",
+        "lesson": "Encourage each other and gather together in faith."
+    },
+    {
+        "number": 79,
+        "book": "Proverbs 4:23",
+        "text": "Keep thy heart with all diligence; for out of it are the issues of life.",
+        "lesson": "Guard your heart, as it guides your life."
+    },
+    {
+        "number": 80,
+        "book": "Psalm 37:5",
+        "text": "Commit thy way unto the Lord; trust also in him; and he shall bring it to pass.",
+        "lesson": "Trust God with your plans and He will guide you."
+    },
+    {
+        "number": 81,
+        "book": "Ephesians 5:8",
+        "text": "For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light.",
+        "lesson": "Live as people transformed by God’s light."
+    },
+    {
+        "number": 82,
+        "book": "John 10:10",
+        "text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.",
+        "lesson": "Jesus came to give abundant life."
+    },
+    {
+        "number": 83,
+        "book": "Isaiah 26:3",
+        "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.",
+        "lesson": "Trusting God brings inner peace."
+    },
+    {
+        "number": 84,
+        "book": "Romans 6:23",
+        "text": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.",
+        "lesson": "Sin leads to death, but God offers eternal life."
+    },
+    {
+        "number": 85,
+        "book": "1 Corinthians 10:13",
+        "text": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able.",
+        "lesson": "God helps us endure and overcome temptation."
+    },
+    {
+        "number": 86,
+        "book": "Hebrews 12:1",
+        "text": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us.",
+        "lesson": "Let go of sin and live with perseverance."
+    },
+    {
+        "number": 87,
+        "book": "1 John 4:4",
+        "text": "Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.",
+        "lesson": "God’s power within us is greater than the world."
+    },
+    {
+        "number": 88,
+        "book": "2 Corinthians 4:16-18",
+        "text": "For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.",
+        "lesson": "Eternal glory outweighs temporary hardships."
+    },
+    {
+        "number": 89,
+        "book": "John 16:33",
+        "text": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.",
+        "lesson": "Jesus’ victory overcomes the world’s troubles."
+    },
+    {
+        "number": 90,
+        "book": "Matthew 28:19-20",
+        "text": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.",
+        "lesson": "The Great Commission to share Jesus with the world."
+    },
+    {
+        "number": 91,
+        "book": "Proverbs 3:5-6",
+        "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths.",
+        "lesson": "Trust God fully and acknowledge Him to guide your path."
+    },
+    {
+        "number": 92,
+        "book": "2 Corinthians 5:7",
+        "text": "For we walk by faith, not by sight.",
+        "lesson": "Live by faith in God, not by worldly appearances."
+    },
+    {
+        "number": 93,
+        "book": "1 John 4:19",
+        "text": "We love him, because he first loved us.",
+        "lesson": "God’s love for us enables us to love Him in return."
+    },
+    {
+        "number": 94,
+        "book": "Philippians 4:8",
+        "text": "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.",
+        "lesson": "Focus your thoughts on what is good and pure."
+    },
+    {
+        "number": 95,
+        "book": "Ephesians 4:32",
+        "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.",
+        "lesson": "Forgive others as God has forgiven you."
+    },
+    {
+        "number": 96,
+        "book": "Psalm 119:105",
+        "text": "Thy word is a lamp unto my feet, and a light unto my path.",
+        "lesson": "God’s Word provides guidance for our lives."
+    },
+    {
+        "number": 97,
+        "book": "Isaiah 41:10",
+        "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+        "lesson": "God strengthens, helps, and upholds us."
+    },
+    {
+        "number": 98,
+        "book": "Psalm 46:1",
+        "text": "God is our refuge and strength, a very present help in trouble.",
+        "lesson": "God is our reliable source of protection and strength."
+    },
+    {
+        "number": 99,
+        "book": "Hebrews 11:1",
+        "text": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+        "lesson": "Faith is confidence in God’s promises, even when unseen."
+    },
+    {
+        "number": 100,
+        "book": "1 Corinthians 13:13",
+        "text": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+        "lesson": "Faith, hope, and love are essential, with love being the greatest virtue."
+    },
+    {
+        "number": 101,
+        "book": "Psalm 7:15-16",
+        "text": "He made a pit, and digged it, and is fallen into the ditch which he made. His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.",
+        "lesson": "The wicked fall into their own traps; their evil intentions backfire."
+    },
+    {
+        "number": 102,
+        "book": "Proverbs 26:27",
+        "text": "Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him.",
+        "lesson": "Those who set traps for others will face the consequences of their own schemes."
+    },
+    {
+        "number": 103,
+        "book": "Psalm 37:12-13",
+        "text": "The wicked plotteth against the just, and gnasheth upon him with his teeth. The Lord shall laugh at him: for he seeth that his day is coming.",
+        "lesson": "Though the wicked plot against the righteous, God sees their end approaching."
+    },
+    {
+        "number": 104,
+        "book": "Psalm 141:10",
+        "text": "Let the wicked fall into their own nets, whilst that I withal escape.",
+        "lesson": "A prayer that the traps set by the wicked will ensnare them instead."
+    },
+    {
+        "number": 105,
+        "book": "Proverbs 28:10",
+        "text": "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession.",
+        "lesson": "Those who mislead the righteous will suffer from their own deceit."
+    },
+    {
+        "number": 106,
+        "book": "Psalm 37:20",
+        "text": "But the wicked shall perish, and the enemies of the Lord shall be as the fat of lambs: they shall consume; into smoke shall they consume away.",
+        "lesson": "The wicked will face destruction and be no more."
+    },
+    {
+        "number": 107,
+        "book": "Psalm 34:21",
+        "text": "Evil shall slay the wicked: and they that hate the righteous shall be desolate.",
+        "lesson": "The wicked face ruin because of their own evil actions."
+    },
+    {
+        "number": 108,
+        "book": "Matthew 5:44",
+        "text": "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;",
+        "lesson": "Jesus teaches us to respond to enemies with love, kindness, and prayer."
+    },
+    {
+        "number": 109,
+        "book": "Matthew 5:9",
+        "text": "Blessed are the peacemakers: for they shall be called the children of God.",
+        "lesson": "Jesus calls us to be peacemakers, showing the character of God."
+    },
+    {
+        "number": 110,
+        "book": "Luke 6:35",
+        "text": "But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil.",
+        "lesson": "Jesus encourages generosity and kindness, even to the ungrateful and wicked."
+    }
+]

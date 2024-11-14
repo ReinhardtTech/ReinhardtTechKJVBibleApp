@@ -1,0 +1,447 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    transition: background-color 0.3s;
+    background-color: rgba(90, 90, 90, 0.432);
+}
+
+:root {
+    --overflowdivbgcolour-color: rgba(22, 22, 22, 0.548);
+    --footerdiv-background-color: rgba(39, 39, 39, 0.9);
+    --container-background-color: rgba(43, 43, 43, 0.7);
+    --container-color: #e0e0e0;
+    --sponsortext-color: #d1d1d1;
+    --sponsortext-text-shadow: 0 0 3px rgba(39, 39, 39, 0.925);
+    --rtechname-color: #222;
+    --slogan-color: indigo;
+    --rtechname-text-shadow: 0 0 2px rgba(197, 197, 197, 0.808);
+
+}
+
+.light_mode {
+    --overflowdivbgcolour-color: rgba(201, 201, 201, 0.712);
+    --rtechname-color: #2a7fffff;
+    --slogan-color: #37c871ff;
+    --rtechname-text-shadow: 0 0 10px rgba(39, 39, 39, 0.336);
+    --footerdiv-background-color: rgba(43, 43, 43, 0.9);
+    --container-background-color: rgba(255, 255, 255, 0.7);
+    --container-color: #222;
+    --sponsortext-color: #222;
+    --sponsortext-text-shadow: 0 0 3px rgba(255, 255, 255, 0.911);
+}
+
+#top-info-bar {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    font-size: 1em;
+    color: #ffffff;
+    background-color: rgba(37, 37, 37, 0.6);
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#change-verse-button {
+    padding: 5px 10px;
+    font-size: 1em;
+    cursor: pointer;
+    border: none;
+    color: #ffffff;
+    background-color: #4CAF50;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+#overflowcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 100vw;
+    min-height: 100vh;
+    background-image: url('3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: opacity 1s ease;
+    padding-bottom: 0px;
+}
+
+
+#overflowdiv {
+    display: flex;
+    margin-top: 0;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.btc-logo {
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    margin-bottom: -5px;
+    margin-left: 0;
+
+    margin-top: 10px;
+}
+
+
+.container {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    padding: 20px;
+    width: 80%;
+    max-width: 600px;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.493);
+    border-radius: 8px;
+    text-align: center;
+    background-color: var(--container-background-color);
+    color: var(--container-color);
+
+    backdrop-filter: blur(10px);
+
+    transition: background-color 0.3s, backdrop-filter 0.3s;
+    font-size: large;
+}
+
+
+.light_mode .container {
+
+    backdrop-filter: blur(10px);
+
+}
+
+
+.dark_mode .container {
+    border-color: #444;
+    backdrop-filter: blur(10px);
+
+}
+
+
+
+#theme-toggle-button {
+    font-size: 1.5em;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+#rtechname {
+    font-size: 1.8em;
+    font-weight: normal;
+    font-family: 'Changa One', sans-serif;
+    color: var(--rtechname-color);
+    text-shadow: var(--rtechname-text-shadow);
+    display: flex;
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+}
+
+#rtechname:hover {
+    opacity: 1;
+}
+
+#rtechslogan {
+    font-size: 1.6em;
+    color: var(--slogan-color);
+
+    font-family: 'Cookie', sans-serif;
+    display: flex;
+    margin-bottom: -30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#KJV {
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(39, 39, 39, 0.336);
+}
+
+.verse-text {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #333;
+}
+
+.light_mode .verse-text {
+    color: #333;
+}
+
+.dark_mode .verse-text {
+    color: #e0e0e0;
+}
+
+.verse-book {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-top: 15px;
+    color: #555;
+}
+
+.light_mode .verse-book {
+    color: #555;
+}
+
+.dark_mode .verse-book {
+    color: #cccccc;
+}
+
+.verse-lesson {
+    margin-top: 10px;
+    font-style: italic;
+    color: #888;
+}
+
+.light_mode .verse-lesson {
+    color: #888;
+}
+
+.dark_mode .verse-lesson {
+    color: #aaaaaa;
+}
+
+
+@media (max-width: 570px) {
+
+    #footerdiv {
+        flex-direction: column;
+
+    }
+
+    #footerdiv>* {
+        width: 100%;
+
+        margin-bottom: 10px;
+
+    }
+
+    #top-info-bar {
+        flex-direction: column;
+
+        align-items: flex;
+
+        padding: 10px 20px;
+
+    }
+
+
+    #top-info-bar span,
+    #theme-toggle-button,
+    #change-verse-button,
+    .btc-logo {
+        margin-bottom: 10px;
+
+    }
+
+    #change-verse-button {
+        margin-left: 0;
+
+    }
+
+
+
+
+
+    #rtechname {
+        font-size: 1.5em;
+
+        text-align: center;
+        margin-bottom: 10px;
+
+    }
+
+    #rtechslogan {
+        font-size: 1.4em;
+
+        text-align: center;
+
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+
+#sponsortext {
+
+    color: var(--sponsortext-color);
+    font-size: 1.5em;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 0px;
+    text-shadow: 0 0 4px rgba(39, 39, 39, 0.815);
+}
+
+.footerlogos {
+    width: 30px;
+    margin: 10px;
+    margin-bottom: 0px;
+}
+
+
+a.youtube-link {
+    text-decoration: none;
+
+    color: #ff0000;
+
+    font-weight: bold;
+
+}
+
+
+a.youtube-link:hover {
+    color: #fd3535;
+
+}
+
+
+a.twitter-link {
+    text-decoration: none;
+
+    color: #043dd8;
+
+    font-weight: bold;
+
+}
+
+
+a.facebook-link:hover {
+    color: rgb(37, 116, 168);
+
+}
+
+
+a.facebook-link {
+    text-decoration: none;
+
+    color: rgb(21, 65, 160);
+
+    font-weight: bold;
+
+}
+
+
+a.twitter-link:hover {
+    color: #66b3ff;
+
+}
+
+#footerdiv {
+    margin-bottom: 10px;
+    color: #222;
+    background-color: rgba(214, 214, 214, 0.842);
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(224, 224, 224, 0.336);
+    margin-top: auto;
+
+}
+
+
+@media (max-width: 570px) {
+    #footerdiv p {
+        display: flex;
+        flex-direction: column;
+
+        align-items: center;
+    }
+
+    #footerdiv p span {
+        display: block;
+        width: 100%;
+
+        text-align: center;
+
+        margin-bottom: 10px;
+
+    }
+
+    #footerdiv p a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+    }
+}
+
+#reinhardtggfooterlogo {
+    width: 40px;
+
+    height: 40px;
+
+    border-radius: 50%;
+
+    object-fit: cover;
+
+}
+
+
+
+
+
+
+.btc-container {
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+
+.cryptodonatelogos {
+    width: 24px;
+    height: 24px;
+    margin: 2px;
+}
+
+.copy-icon {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    margin-left: 10px;
+    color: rgb(0, 71, 224);
+}
+
+.cryptodonateaddress {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.copied-message {
+    margin-left: 2px;
+    color: green;
+    display: none;
+}
+
+
+@media screen and (max-width: 630px) {
+    .btc-container {
+        display: flex;
+        flex-direction: column;
+
+        align-items: flex-start;
+
+    }
+
+    .cryptodonatelogos {
+        margin-right: 0;
+        margin-bottom: 5px;
+
+    }
+
+    .cryptodonateaddress {
+        display: block;
+        margin: 0;
+
+    }
+}
