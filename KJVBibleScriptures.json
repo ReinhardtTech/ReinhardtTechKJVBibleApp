@@ -664,5 +664,665 @@
         "book": "Luke 6:35",
         "text": "But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and to the evil.",
         "lesson": "Jesus encourages generosity and kindness, even to the ungrateful and wicked."
+    },
+    {
+        "number": 111,
+        "book": "Proverbs 3:9",
+        "text": "Honour the LORD with thy substance, and with the firstfruits of all thine increase:",
+        "lesson": "Honor God through faithful stewardship and giving."
+    },
+    {
+        "number": 112,
+        "book": "Proverbs 22:7",
+        "text": "The rich ruleth over the poor, and the borrower is servant to the lender.",
+        "lesson": "Be cautious about debt and its consequences."
+    },
+    {
+        "number": 113,
+        "book": "Malachi 3:10",
+        "text": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.",
+        "lesson": "God blesses faithful giving."
+    },
+    {
+        "number": 114,
+        "book": "Matthew 6:19-21",
+        "text": "Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: For where your treasure is, there will your heart be also.",
+        "lesson": "Focus on eternal investments rather than earthly wealth."
+    },
+    {
+        "number": 115,
+        "book": "Luke 6:38",
+        "text": "Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.",
+        "lesson": "Generosity brings blessings."
+    },
+    {
+        "number": 116,
+        "book": "1 Timothy 6:10",
+        "text": "For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.",
+        "lesson": "Beware of greed and the dangers of loving money."
+    },
+    {
+        "number": 117,
+        "book": "Proverbs 13:11",
+        "text": "Wealth gotten by vanity shall be diminished: but he that gathereth by labour shall increase.",
+        "lesson": "Steady work leads to sustainable wealth."
+    },
+    {
+        "number": 118,
+        "book": "Ecclesiastes 5:10",
+        "text": "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity.",
+        "lesson": "Material wealth does not bring ultimate satisfaction."
+    },
+    {
+        "number": 119,
+        "book": "Proverbs 11:24-25",
+        "text": "There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty. The liberal soul shall be made fat: and he that watereth shall be watered also himself.",
+        "lesson": "Generosity results in blessings."
+    },
+    {
+        "number": 120,
+        "book": "Proverbs 19:17",
+        "text": "He that hath pity upon the poor lendeth unto the LORD; and that which he hath given will he pay him again.",
+        "lesson": "God rewards kindness to the poor."
+    },
+    {
+        "number": 121,
+        "book": "2 Corinthians 9:6-7",
+        "text": "But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully. Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.",
+        "lesson": "Give generously and cheerfully."
+    },
+    {
+        "number": 122,
+        "book": "Proverbs 27:23-24",
+        "text": "Be thou diligent to know the state of thy flocks, and look well to thy herds. For riches are not for ever: and doth the crown endure to every generation?",
+        "lesson": "Be diligent in managing your resources."
+    },
+    {
+        "number": 123,
+        "book": "Hebrews 13:5",
+        "text": "Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.",
+        "lesson": "Practice contentment and trust in God."
+    },
+    {
+        "number": 124,
+        "book": "Matthew 25:21",
+        "text": "His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+        "lesson": "Faithfulness in small things leads to greater blessings."
+    },
+    {
+        "number": 125,
+        "book": "Proverbs 28:20",
+        "text": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.",
+        "lesson": "Avoid the pursuit of quick riches."
+    },
+    {
+        "number": 126,
+        "book": "Proverbs 21:20",
+        "text": "There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.",
+        "lesson": "Wise planning preserves wealth."
+    },
+    {
+        "number": 127,
+        "book": "Romans 13:8",
+        "text": "Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.",
+        "lesson": "Avoid unnecessary debt and practice love."
+    },
+    {
+        "number": 128,
+        "book": "Proverbs 16:8",
+        "text": "Better is a little with righteousness than great revenues without right.",
+        "lesson": "Integrity is more valuable than great wealth."
+    },
+    {
+        "number": 129,
+        "book": "Luke 12:15",
+        "text": "And he said unto them, Take heed, and beware of covetousness: for a man's life consisteth not in the abundance of the things which he possesseth.",
+        "lesson": "Life is about more than material possessions."
+    },
+    {
+        "number": 130,
+        "book": "Philippians 4:19",
+        "text": "But my God shall supply all your need according to his riches in glory by Christ Jesus.",
+        "lesson": "Trust God to meet your needs."
+    },
+    {
+        "number": 131,
+        "book": "Proverbs 10:4",
+        "text": "He becometh poor that dealeth with a slack hand: but the hand of the diligent maketh rich.",
+        "lesson": "Diligence and hard work lead to prosperity."
+    },
+    {
+        "number": 132,
+        "book": "Proverbs 28:27",
+        "text": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.",
+        "lesson": "Generosity to the poor brings blessings."
+    },
+    {
+        "number": 133,
+        "book": "Matthew 6:24",
+        "text": "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.",
+        "lesson": "Choose to serve God over money."
+    },
+    {
+        "number": 134,
+        "book": "Psalm 37:21",
+        "text": "The wicked borroweth, and payeth not again: but the righteous sheweth mercy, and giveth.",
+        "lesson": "The righteous are generous and responsible."
+    },
+    {
+        "number": 135,
+        "book": "Proverbs 14:23",
+        "text": "In all labour there is profit: but the talk of the lips tendeth only to penury.",
+        "lesson": "Hard work brings profit, but idle talk leads to poverty."
+    },
+    {
+        "number": 136,
+        "book": "Colossians 3:23-24",
+        "text": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men; Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.",
+        "lesson": "Work diligently as a service to the Lord."
+    },
+    {
+        "number": 137,
+        "book": "Proverbs 15:16",
+        "text": "Better is little with the fear of the LORD than great treasure and trouble therewith.",
+        "lesson": "Godliness with contentment is more valuable than wealth."
+    },
+    {
+        "number": 138,
+        "book": "Luke 14:28",
+        "text": "For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?",
+        "lesson": "Plan wisely and manage resources carefully."
+    },
+    {
+        "number": 139,
+        "book": "Acts 20:35",
+        "text": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.",
+        "lesson": "Generosity is a greater blessing than receiving."
+    },
+    {
+        "number": 140,
+        "book": "1 Chronicles 29:12",
+        "text": "Both riches and honour come of thee, and thou reignest over all; and in thine hand is power and might; and in thine hand it is to make great, and to give strength unto all.",
+        "lesson": "All wealth and power belong to God."
+    },
+    {
+        "number": 141,
+        "book": "Proverbs 4:7",
+        "text": "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.",
+        "lesson": "Pursue wisdom above all else."
+    },
+    {
+        "number": 142,
+        "book": "James 1:5",
+        "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+        "lesson": "Ask God for wisdom, and He will provide."
+    },
+    {
+        "number": 143,
+        "book": "Proverbs 2:6",
+        "text": "For the LORD giveth wisdom: out of his mouth cometh knowledge and understanding.",
+        "lesson": "True wisdom comes from God."
+    },
+    {
+        "number": 144,
+        "book": "Ecclesiastes 7:12",
+        "text": "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.",
+        "lesson": "Wisdom is more valuable than wealth."
+    },
+    {
+        "number": 145,
+        "book": "Proverbs 9:10",
+        "text": "The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding.",
+        "lesson": "Reverence for God is the foundation of wisdom."
+    },
+    {
+        "number": 146,
+        "book": "Proverbs 3:13",
+        "text": "Happy is the man that findeth wisdom, and the man that getteth understanding.",
+        "lesson": "Wisdom brings joy and fulfillment."
+    },
+    {
+        "number": 147,
+        "book": "Proverbs 16:16",
+        "text": "How much better is it to get wisdom than gold! and to get understanding rather to be chosen than silver!",
+        "lesson": "Wisdom is more precious than wealth."
+    },
+    {
+        "number": 148,
+        "book": "Colossians 3:16",
+        "text": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.",
+        "lesson": "Wisdom comes from God's Word and should be shared."
+    },
+    {
+        "number": 149,
+        "book": "Proverbs 12:15",
+        "text": "The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.",
+        "lesson": "Wisdom involves listening to counsel."
+    },
+    {
+        "number": 150,
+        "book": "Proverbs 13:10",
+        "text": "Only by pride cometh contention: but with the well advised is wisdom.",
+        "lesson": "Wisdom is found in humility and seeking advice."
+    },
+    {
+        "number": 151,
+        "book": "Job 28:28",
+        "text": "And unto man he said, Behold, the fear of the Lord, that is wisdom; and to depart from evil is understanding.",
+        "lesson": "Wisdom is fearing God and avoiding evil."
+    },
+    {
+        "number": 152,
+        "book": "Psalm 90:12",
+        "text": "So teach us to number our days, that we may apply our hearts unto wisdom.",
+        "lesson": "Wisdom involves living with awareness of life’s brevity."
+    },
+    {
+        "number": 153,
+        "book": "Proverbs 1:7",
+        "text": "The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.",
+        "lesson": "Reverence for God is the starting point for wisdom."
+    },
+    {
+        "number": 154,
+        "book": "Ecclesiastes 10:10",
+        "text": "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.",
+        "lesson": "Wisdom makes efforts more effective."
+    },
+    {
+        "number": 155,
+        "book": "Proverbs 11:2",
+        "text": "When pride cometh, then cometh shame: but with the lowly is wisdom.",
+        "lesson": "Wisdom is found in humility."
+    },
+    {
+        "number": 156,
+        "book": "James 3:17",
+        "text": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.",
+        "lesson": "Godly wisdom is pure and characterized by peace and mercy."
+    },
+    {
+        "number": 157,
+        "book": "Proverbs 8:11",
+        "text": "For wisdom is better than rubies; and all the things that may be desired are not to be compared to it.",
+        "lesson": "Wisdom is incomparable in value."
+    },
+    {
+        "number": 158,
+        "book": "Proverbs 19:20",
+        "text": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.",
+        "lesson": "Listening to counsel leads to wisdom."
+    },
+    {
+        "number": 159,
+        "book": "Proverbs 15:33",
+        "text": "The fear of the LORD is the instruction of wisdom; and before honour is humility.",
+        "lesson": "Humility and reverence for God are essential for wisdom."
+    },
+    {
+        "number": 160,
+        "book": "Daniel 2:20",
+        "text": "Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:",
+        "lesson": "All wisdom and power belong to God."
+    },
+    {
+        "number": 161,
+        "book": "Philippians 4:7",
+        "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.",
+        "lesson": "God's peace transcends understanding and guards our hearts."
+    },
+    {
+        "number": 162,
+        "book": "John 14:27",
+        "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.",
+        "lesson": "Jesus gives a peace unlike any the world offers."
+    },
+    {
+        "number": 163,
+        "book": "Isaiah 26:3",
+        "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.",
+        "lesson": "Trusting in God brings perfect peace."
+    },
+    {
+        "number": 164,
+        "book": "Psalm 29:11",
+        "text": "The LORD will give strength unto his people; the LORD will bless his people with peace.",
+        "lesson": "God blesses His people with strength and peace."
+    },
+    {
+        "number": 165,
+        "book": "Matthew 5:9",
+        "text": "Blessed are the peacemakers: for they shall be called the children of God.",
+        "lesson": "Peacemakers are blessed and recognized as God's children."
+    },
+    {
+        "number": 166,
+        "book": "Colossians 3:15",
+        "text": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.",
+        "lesson": "Let God's peace govern your heart."
+    },
+    {
+        "number": 167,
+        "book": "2 Thessalonians 3:16",
+        "text": "Now the Lord of peace himself give you peace always by all means. The Lord be with you all.",
+        "lesson": "God is the source of peace and gives it abundantly."
+    },
+    {
+        "number": 168,
+        "book": "Romans 5:1",
+        "text": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:",
+        "lesson": "Faith in Jesus brings peace with God."
+    },
+    {
+        "number": 169,
+        "book": "Psalm 34:14",
+        "text": "Depart from evil, and do good; seek peace, and pursue it.",
+        "lesson": "Actively pursue peace by turning from evil and doing good."
+    },
+    {
+        "number": 170,
+        "book": "Hebrews 12:14",
+        "text": "Follow peace with all men, and holiness, without which no man shall see the Lord:",
+        "lesson": "Strive for peace and holiness in relationships."
+    },
+    {
+        "number": 171,
+        "book": "Isaiah 9:6",
+        "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+        "lesson": "Jesus is the Prince of Peace."
+    },
+    {
+        "number": 172,
+        "book": "Romans 12:18",
+        "text": "If it be possible, as much as lieth in you, live peaceably with all men.",
+        "lesson": "Do your best to live at peace with everyone."
+    },
+    {
+        "number": 173,
+        "book": "Proverbs 16:7",
+        "text": "When a man's ways please the LORD, he maketh even his enemies to be at peace with him.",
+        "lesson": "Obeying God brings peace even with adversaries."
+    },
+    {
+        "number": 174,
+        "book": "John 16:33",
+        "text": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.",
+        "lesson": "Jesus brings peace despite worldly troubles."
+    },
+    {
+        "number": 175,
+        "book": "Isaiah 32:17",
+        "text": "And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever.",
+        "lesson": "Righteousness produces peace and assurance."
+    },
+    {
+        "number": 176,
+        "book": "1 Peter 3:11",
+        "text": "Let him eschew evil, and do good; let him seek peace, and ensue it.",
+        "lesson": "Turn from evil, do good, and actively seek peace."
+    },
+    {
+        "number": 177,
+        "book": "Galatians 5:22",
+        "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+        "lesson": "Peace is a fruit of the Holy Spirit."
+    },
+    {
+        "number": 178,
+        "book": "Psalm 85:8",
+        "text": "I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.",
+        "lesson": "God speaks peace to His people."
+    },
+    {
+        "number": 179,
+        "book": "Isaiah 54:10",
+        "text": "For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee.",
+        "lesson": "God's covenant of peace is everlasting."
+    },
+    {
+        "number": 180,
+        "book": "Ephesians 2:14",
+        "text": "For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;",
+        "lesson": "Jesus Himself is our peace and unites us."
+    },
+    {
+        "number": 181,
+        "book": "Galatians 5:22-23",
+        "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law.",
+        "lesson": "The fruits of the Spirit are the virtues evident in a Spirit-filled life."
+    },
+    {
+        "number": 182,
+        "book": "1 Corinthians 12:4",
+        "text": "Now there are diversities of gifts, but the same Spirit.",
+        "lesson": "The Holy Spirit gives various gifts to believers."
+    },
+    {
+        "number": 183,
+        "book": "1 Corinthians 12:8",
+        "text": "For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;",
+        "lesson": "Wisdom and knowledge are spiritual gifts from the Holy Spirit."
+    },
+    {
+        "number": 184,
+        "book": "1 Corinthians 12:9",
+        "text": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;",
+        "lesson": "Faith and healing are gifts of the Holy Spirit."
+    },
+    {
+        "number": 185,
+        "book": "1 Corinthians 12:10",
+        "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:",
+        "lesson": "The Spirit bestows miraculous gifts, prophecy, discernment, and languages."
+    },
+    {
+        "number": 186,
+        "book": "1 Corinthians 12:11",
+        "text": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.",
+        "lesson": "The Holy Spirit distributes gifts according to His will."
+    },
+    {
+        "number": 187,
+        "book": "Romans 12:6",
+        "text": "Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;",
+        "lesson": "Gifts are given by grace, and believers should use them faithfully."
+    },
+    {
+        "number": 188,
+        "book": "Romans 12:7",
+        "text": "Or ministry, let us wait on our ministering: or he that teacheth, on teaching;",
+        "lesson": "Serving and teaching are spiritual gifts."
+    },
+    {
+        "number": 189,
+        "book": "Romans 12:8",
+        "text": "Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.",
+        "lesson": "Exhortation, generosity, leadership, and mercy are gifts to be exercised with integrity."
+    },
+    {
+        "number": 190,
+        "book": "Ephesians 4:11",
+        "text": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;",
+        "lesson": "Christ gives spiritual leaders to the church for its edification."
+    },
+    {
+        "number": 191,
+        "book": "Ephesians 4:12",
+        "text": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:",
+        "lesson": "Spiritual gifts are given to equip believers and build up the church."
+    },
+    {
+        "number": 192,
+        "book": "2 Timothy 1:7",
+        "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+        "lesson": "The Spirit gives power, love, and self-discipline."
+    },
+    {
+        "number": 193,
+        "book": "1 Corinthians 14:1",
+        "text": "Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.",
+        "lesson": "Pursue love and seek spiritual gifts, especially prophecy."
+    },
+    {
+        "number": 194,
+        "book": "1 Corinthians 12:31",
+        "text": "But covet earnestly the best gifts: and yet shew I unto you a more excellent way.",
+        "lesson": "Desire the best gifts, but love surpasses all."
+    },
+    {
+        "number": 195,
+        "book": "1 Peter 4:10",
+        "text": "As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.",
+        "lesson": "Spiritual gifts are to be used to serve others faithfully."
+    },
+    {
+        "number": 196,
+        "book": "Galatians 5:16",
+        "text": "This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.",
+        "lesson": "Walking in the Spirit helps believers live righteously."
+    },
+    {
+        "number": 197,
+        "book": "1 Thessalonians 5:19",
+        "text": "Quench not the Spirit.",
+        "lesson": "Do not suppress the work of the Holy Spirit in your life."
+    },
+    {
+        "number": 198,
+        "book": "Acts 2:38",
+        "text": "Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.",
+        "lesson": "The Holy Spirit is God's gift to believers who repent."
+    },
+    {
+        "number": 199,
+        "book": "1 Corinthians 13:2",
+        "text": "And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.",
+        "lesson": "Love is essential even when using spiritual gifts."
+    },
+    {
+        "number": 200,
+        "book": "Romans 8:9",
+        "text": "But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.",
+        "lesson": "Living in the Spirit confirms our identity in Christ."
+    },
+    {
+        "number": 201,
+        "book": "Matthew 6:16",
+        "text": "Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.",
+        "lesson": "Fasting should be done with humility and not for show."
+    },
+    {
+        "number": 202,
+        "book": "Matthew 6:17-18",
+        "text": "But thou, when thou fastest, anoint thine head, and wash thy face; That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.",
+        "lesson": "Fasting is a private act of worship to God."
+    },
+    {
+        "number": 203,
+        "book": "Joel 2:12",
+        "text": "Therefore also now, saith the LORD, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning:",
+        "lesson": "Fasting is an expression of repentance and seeking God wholeheartedly."
+    },
+    {
+        "number": 204,
+        "book": "Isaiah 58:6",
+        "text": "Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke?",
+        "lesson": "True fasting involves acts of justice and mercy."
+    },
+    {
+        "number": 205,
+        "book": "Isaiah 58:7",
+        "text": "Is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?",
+        "lesson": "Fasting is about compassion and helping those in need."
+    },
+    {
+        "number": 206,
+        "book": "Ezra 8:23",
+        "text": "So we fasted and besought our God for this: and he was intreated of us.",
+        "lesson": "Fasting is a way to seek God's guidance and favor."
+    },
+    {
+        "number": 207,
+        "book": "Daniel 9:3",
+        "text": "And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:",
+        "lesson": "Fasting can be combined with prayer to seek God's mercy."
+    },
+    {
+        "number": 208,
+        "book": "Acts 13:2",
+        "text": "As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them.",
+        "lesson": "Fasting can precede significant decisions in ministry."
+    },
+    {
+        "number": 209,
+        "book": "Acts 14:23",
+        "text": "And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.",
+        "lesson": "Fasting is part of seeking God's guidance in leadership."
+    },
+    {
+        "number": 210,
+        "book": "Matthew 4:2",
+        "text": "And when he had fasted forty days and forty nights, he was afterward an hungred.",
+        "lesson": "Jesus fasted to prepare for His ministry."
+    },
+    {
+        "number": 211,
+        "book": "Luke 4:2",
+        "text": "Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterward hungered.",
+        "lesson": "Jesus' fasting strengthened Him to overcome temptation."
+    },
+    {
+        "number": 212,
+        "book": "2 Samuel 12:16",
+        "text": "David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth.",
+        "lesson": "David fasted as an expression of heartfelt intercession."
+    },
+    {
+        "number": 213,
+        "book": "Esther 4:16",
+        "text": "Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which is not according to the law: and if I perish, I perish.",
+        "lesson": "Fasting can accompany acts of courage and seeking God's protection."
+    },
+    {
+        "number": 214,
+        "book": "Nehemiah 1:4",
+        "text": "And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,",
+        "lesson": "Fasting can be a response to a deep burden or crisis."
+    },
+    {
+        "number": 215,
+        "book": "Jonah 3:5",
+        "text": "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
+        "lesson": "Fasting can signify repentance and turning to God."
+    },
+    {
+        "number": 216,
+        "book": "Psalm 35:13",
+        "text": "But as for me, when they were sick, my clothing was sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.",
+        "lesson": "Fasting is a way to humble oneself before God."
+    },
+    {
+        "number": 217,
+        "book": "Luke 2:37",
+        "text": "And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day.",
+        "lesson": "Fasting is a means of dedicated service and worship to God."
+    },
+    {
+        "number": 218,
+        "book": "Acts 10:30",
+        "text": "And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,",
+        "lesson": "Fasting often precedes divine revelation and guidance."
+    },
+    {
+        "number": 219,
+        "book": "1 Corinthians 7:5",
+        "text": "Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.",
+        "lesson": "Fasting can be a spiritual practice for married couples with mutual agreement."
+    },
+    {
+        "number": 220,
+        "book": "Isaiah 58:9",
+        "text": "Then shalt thou call, and the LORD shall answer; thou shalt cry, and he shall say, Here I am. If thou take away from the midst of thee the yoke, the putting forth of the finger, and speaking vanity;",
+        "lesson": "Fasting with a righteous heart brings answered prayers."
     }
 ]
