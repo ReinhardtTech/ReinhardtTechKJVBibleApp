@@ -116,41 +116,37 @@ a:hover {
 #settingscontent {
     display: flex;
     flex-direction: row;
-    /* Display children in a row */
     justify-content: center;
-    /* Center horizontally */
     align-items: center;
-    /* Align children vertically in the center */
     text-align: center;
-    /* Ensure text inside is centered */
+
     width: 100%;
-    /* Full width */
+
     height: 100%;
-    /* Full height (or adjust as needed) */
+
 }
 
 .material-icons {
     font-size: 24px;
-    /* Adjust icon size */
     color: inherit;
-    /* Inherit color from the settings container */
+    
     cursor: pointer;
     border: none;
     background: none;
     margin-left: 8px;
     margin-right: 8px;
     transition: text-shadow 0.2s, color 0.2s;
-    /* Smooth transition for text-shadow and color */
+
 }
 
-/* Hover effect - Light Lime Green text shadow */
+
 .material-icons:hover {
     text-shadow: 0 0 10px lime, 0 0 20px lime, 0 0 30px lime;
     color: inherit;
-    /* Maintain original color on hover */
+
 }
 
-/* Click effect - Purple color */
+
 .material-icons:active {
     color: purple;
 }
