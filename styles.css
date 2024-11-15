@@ -19,6 +19,7 @@ body {
     --rtechname-color: #222;
     --slogan-color: indigo;
     --rtechname-text-shadow: 0 0 2px rgba(197, 197, 197, 0.808);
+    --link-color: rgb(22, 174, 224);
 
 }
 
@@ -32,7 +33,19 @@ body {
     --container-color: #222;
     --sponsortext-color: #222;
     --sponsortext-text-shadow: 0 0 3px rgba(255, 255, 255, 0.911);
+    --link-color: rgb(72, 72, 255);
 }
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: var(--link-color);
+}
+
+a:hover {
+    color: rgb(177, 41, 255);
+}
+
 
 #top-info-bar {
     width: 100%;
@@ -61,8 +74,7 @@ body {
 
 #overflowcontainer {
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     min-width: 100vw;
     min-height: 100vh;
@@ -71,49 +83,103 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     transition: opacity 1s ease;
-    padding-bottom: 0px;
+    position: relative;
 }
-
 
 #overflowdiv {
     display: flex;
-    margin-top: 0;
     flex-direction: column;
     align-items: center;
-    width: 100vw;
-    height: 100vh;
+    justify-content: center;
+    width: 100%;
+    box-sizing: border-box;
+    height: 100%;
 }
 
-.btc-logo {
-    width: 30px;
-    height: 30px;
-    margin-left: 20px;
-    margin-bottom: -5px;
-    margin-left: 0;
 
-    margin-top: 10px;
+
+#settings {
+    position: absolute;
+    top: 0;
+    margin-top: 0;
+    left: 0;
+    padding: 20px;
+    color: var(--container-color);
+    background-color: var(--container-background-color);
+    backdrop-filter: blur(10px);
+    transition: background-color 0.3s, backdrop-filter 0.3s;
+    height: 100%;
+    max-height: 30px;
+    width: 100%;
 }
+
+#settingscontent {
+    display: flex;
+    flex-direction: row;
+    /* Display children in a row */
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Align children vertically in the center */
+    text-align: center;
+    /* Ensure text inside is centered */
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height (or adjust as needed) */
+}
+
+.material-icons {
+    font-size: 24px;
+    /* Adjust icon size */
+    color: inherit;
+    /* Inherit color from the settings container */
+    cursor: pointer;
+    border: none;
+    background: none;
+    margin-left: 8px;
+    margin-right: 8px;
+    transition: text-shadow 0.2s, color 0.2s;
+    /* Smooth transition for text-shadow and color */
+}
+
+/* Hover effect - Light Lime Green text shadow */
+.material-icons:hover {
+    text-shadow: 0 0 10px lime, 0 0 20px lime, 0 0 30px lime;
+    color: inherit;
+    /* Maintain original color on hover */
+}
+
+/* Click effect - Purple color */
+.material-icons:active {
+    color: purple;
+}
+
 
 
 .container {
-    margin-top: 70px;
-    margin-bottom: 70px;
+    width: 100%;
+    max-width: 700px;
     padding: 20px;
-    width: 80%;
-    max-width: 600px;
     border: 1px solid #ddd;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.493);
     border-radius: 8px;
     text-align: center;
     background-color: var(--container-background-color);
     color: var(--container-color);
-
     backdrop-filter: blur(10px);
-
     transition: background-color 0.3s, backdrop-filter 0.3s;
     font-size: large;
 }
 
+
+.btc-logo {
+    width: 30px;
+    height: 30px;
+    margin-bottom: -5px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
 
 .light_mode .container {
 
@@ -133,7 +199,6 @@ body {
 #theme-toggle-button {
     font-size: 1.5em;
     cursor: pointer;
-    margin-left: 20px;
 }
 
 #rtechname {
@@ -154,13 +219,28 @@ body {
 #rtechslogan {
     font-size: 1.6em;
     color: var(--slogan-color);
-
     font-family: 'Cookie', sans-serif;
     display: flex;
     margin-bottom: -30px;
     margin-left: 20px;
     margin-right: 20px;
 }
+
+
+#copyright {
+    cursor: pointer;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+#music-icon {
+    color: var(--container-color);
+    font-size: 20px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
 
 #KJV {
     font-weight: bold;

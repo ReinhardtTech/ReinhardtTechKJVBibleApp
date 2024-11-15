@@ -24,12 +24,17 @@
     <meta name="twitter:site" content="@YourTwitterHandle">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="canonical" href="https://www.reinhardttech.com">
-    <!-- Google Fonts for Icons and Text -->
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" />
     <link href="https://fonts.googleapis.com/css2?family=Cookie&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Changa+One&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file if needed -->
+    <!-- Font Awesome CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Include Material Icons stylesheet -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="styles.css">
 
 
     <title>ReinhardtTech.com - KJV Bible Verses</title>
@@ -45,19 +50,96 @@
 
         <button id="change-verse-button">Change Verse</button>
         <span>
-            <span id="theme-toggle-button" class="icon material-symbols-rounded">light_mode</span>
             <img src="bitcoin-btc-logo.svg" alt="Bitcoin Logo" class="btc-logo" id="btcToggle">
+            <span id="copyright" style="cursor: pointer;">&copy;</span>
+            <i id="gear-icon" class="fas fa-cog" style="font-size: 22px; cursor: pointer;"></i>
+
         </span>
+
+
 
 
     </div>
     <div id="overflowcontainer">
         <div id="overflowdiv">
+            <p id="settings" style="display: none;">
+                <span id="settingscontent">
+                    Here are your settings.
+                    <span id="theme-toggle-button" class="material-icons"
+                        class="icon material-symbols-rounded">light_mode</span>
+
+                    <!-- Inline CSS for margin adjustment -->
+                    <style>
+                        #theme-toggle-button {
+                            margin-left: 8px;
+                        }
+                    </style>
+
+
+                    <!-- Speaker Icon -->
+                    <span id="speaker-icon" class="material-icons">volume_up</span>
+
+                    <i id="music-icon" class="material-icons">music_note</i>
+
+                    <audio id="audio-player" src="" preload="auto"></audio>
+
+
+                    <!-- Cookie button -->
+                    <button id="cookie-icon" class="material-icons">
+                        cookie
+                    </button>
+
+
+
+                </span>
+            </p>
+
+
+            <script>
+
+
+
+            </script>
+
+            <div id="cookie-container" class="container" style="display: none;">
+                <p>Local Storage Policy
+                    <br />
+                    <br />
+
+                    This website uses local storage to enhance your browsing experience. Local storage allows us to
+                    store data on your device to remember your preferences and settings between visits, such as language
+                    or theme choices. We use this information solely for improving your experience on the website.
+
+                    The data stored in local storage does not include sensitive information, and is only accessible to
+                    this site. You can manage or delete this data through your browser settings at any time. Clearing
+                    your local storage may affect certain website features, such as saving your preferences.
+
+                    We do not share data stored in local storage with any third-party services unless explicitly stated.
+
+                    If you have any questions about our use of local storage, please contact us.
+                </p>
+                <button id="cookie-ok-button">OK</button>
+
+            </div>
+
             <div class="container" id="verse-container" style="display: block;">
                 <div class="verse-display">
                     <p class="verse-book" id="verse-book"></p>
                     <p class="verse-text" id="verse-text"></p>
                     <p class="verse-lesson" id="verse-lesson"></p>
+                </div>
+            </div>
+            <div class="container" id="credits-container" style="display: none;">
+                <div class="verse-display">
+                    <p><b>Credits:</b></p>
+                    <p>Website Design:<a href="www.github.com/reinhardtstrauss">www.github.com/reinhardtstrauss</a></p>
+                    <p>Logo and slogan fonts:<a href="http://fonts.google.com">fonts.google.com</a></p>
+                    <p>Toggle light/darkmode: <a
+                            href="https://www.codingnepalweb.com/google-gemini-chatbot-html-css-javascript/">Coding
+                            Nepal</a></p>
+                    <p>Social Icons:<a href="http://www.wikimedia.org">www.wikimedia.org</a></p>
+                    <p>Crypto Token Logos:</p>
+                    <p>Wallpapers:<a href="http://www.pexels.com">www.pexels.com</a></p>
                 </div>
             </div>
             <div class="container" id="donate-container" style="display: none;">
@@ -214,11 +296,11 @@
                         alt="@ReinhardtGG" />@ReinhardtGG
                 </a>
             </span>
-            <span>
+            <span><!--
                 <a href="https://www.youtube.com/@ReinhardtTech" class="youtube-link" target="_blank">
                     <img src="./footerlogos/YouTube_play_button_icon_(2013–2017).svg" class="footerlogos"
                         alt="@ReinhardtTech" />@ReinhardtTech
-                </a>
+                </a>-->
             </span>
             <span>
                 <a href="https://www.x.com/reinhardttech" class="twitter-link" target="_blank">
@@ -235,8 +317,8 @@
 
         </p>
         <p>
-            <a href="http://www.reinhardttech.com">ReinhardtTech.com</a> is owned and operated by ReinhardtTech (Pty)
-            Ltd
+            <a href="http://www.reinhardttech.com">ReinhardtTech.com</a>
+
         </p>
     </div>
 </body>
